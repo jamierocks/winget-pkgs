@@ -1,0 +1,13 @@
+Id: PCSX2.PCSX2
+Version: 1.6.0
+Name: PCSX2
+Publisher: PCSX2
+Homepage: https://pcsx2.net/
+License: GPL 3
+LicenseUrl: https://github.com/PCSX2/pcsx2/blob/v1.6.0/COPYING.GPLv3
+Description: A free program that tries to replicate the Playstation 2 console to enable you to play PS2 games on your PC.
+Installers: 
+    - Arch: x64
+      Url: https://github.com/PCSX2/pcsx2/releases/download/v1.6.0/pcsx2-1.6.0-setup.exe
+      InstallerType: Nullsoft
+      Sha256: fbe07d1afd27ab353daa2afacc2de87d8f5ec69f64bbd9246f31ebfe1731de9b
